@@ -37,7 +37,7 @@ I'm a **Data Engineering Intern** at **Saltside** and a **Computer Engineering u
 
 ## 🌍 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamarac99) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamarabandara) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamarabandara99) 
 
 
 🚀 Let's build something amazing together!
