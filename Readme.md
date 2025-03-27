@@ -1,21 +1,41 @@
-# 👋 Hey, I'm Chamara Bandara!
+# 🚀 Chamara Bandara
 
-## 🚀 About Me
-I'm currently an intern in the Data Engineering team at Saltside. I am a Computer Engineering undergraduate at the University of Jaffna with a passion for AI, Machine Learning, and Software Engineering. I thrive on solving complex problems, participating in hackathons, and optimizing deep learning inference.
-I'm a Computer Engineering undergraduate at the University of Jaffna with a passion for AI, Machine Learning, and Software Engineering. I thrive on solving complex problems, participating in hackathons, and optimizing deep learning inference.
+![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-## 🔥 Skills & Interests
-- 🧠 **Machine Learning & AI**: Deep Learning, NLP, FastText, Word2Vec, BERT
-- 💻 **Software Development**: Full-stack apps, Spring Boot, React Native
-- ⚡ **Performance Optimization**: CPU-GPU parallelism, load balancing
-- 🔒 **Cybersecurity**: SQL Injection, Network security analysis
-- 🔧 **Embedded Systems**: RTOS, low-power computing
+## 👋 About Me
+I'm a **Data Engineering Intern** at **Saltside** and a **Computer Engineering undergraduate** at the **University of Jaffna**. Passionate about **AI, Machine Learning, and Software Engineering**, I thrive on solving complex problems, optimizing deep learning inference, and participating in hackathons.
+
+## ⚡ Skills & Interests
+
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 📊 Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) 
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🤖 Machine Learning & AI
+- Deep Learning, NLP, FastText, Word2Vec, BERT
+- Model Optimization & Deployment
+
+### 💻 Software Development
+- Full-Stack Apps (Spring Boot, React Native)
+- Scalable Backend Systems
+
+### ⚡ Performance Optimization
+- CPU-GPU Parallelism, Load Balancing
+
+### 🔒 Cybersecurity
+- SQL Injection, Network Security Analysis
 
 ## 📌 Current Projects
-- 🏗 **Optimizing Deep Learning Inference**: Enhancing CPU-GPU hybrid clusters.
-- 📝 **Sinhala Spelling Correction**: Transformer-based NLP model.
+- 🚀 **Optimizing Deep Learning Inference**: Enhancing CPU-GPU hybrid clusters.
+- 🔠 **Sinhala Spelling Correction**: Transformer-based NLP model.
 - 🏫 **Lecture Hall Booking System**: Scalable backend with Spring Boot.
-
+- 🤖 **IEEE Chatbot**: AI-driven chatbot for IEEE Computer Society.
 
 ## 🏆 Achievements
 - 🏅 **Finalist at CodeStorm 2.0** (8th Place, HackHeroes)
@@ -24,8 +44,8 @@ I'm a Computer Engineering undergraduate at the University of Jaffna with a pass
 - ☁️ **Cloud Computing Summer School (IEEE UoJ SB)**
 
 ## 🌍 Connect with Me
-- 🏠 [GitHub](https://github.com/chamarac99)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chamarabandara)
-- ✍️ [Medium](https://medium.com/@chamarabandara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamarac99) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamarabandara) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chamarabandara)
 
-Let's innovate and build together! 🚀
+🚀 Let's build something amazing together!
