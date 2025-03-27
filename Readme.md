@@ -1,7 +1,5 @@
 # 🚀 Chamara Bandara
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 ## 👋 About Me
 I'm a **Data Engineering Intern** at **Saltside** and a **Computer Engineering undergraduate** at the **University of Jaffna**. Passionate about **AI, Machine Learning, and Software Engineering**, I thrive on solving complex problems, optimizing deep learning inference, and participating in hackathons.
 
@@ -31,21 +29,15 @@ I'm a **Data Engineering Intern** at **Saltside** and a **Computer Engineering u
 ### 🔒 Cybersecurity
 - SQL Injection, Network Security Analysis
 
-## 📌 Current Projects
-- 🚀 **Optimizing Deep Learning Inference**: Enhancing CPU-GPU hybrid clusters.
-- 🔠 **Sinhala Spelling Correction**: Transformer-based NLP model.
-- 🏫 **Lecture Hall Booking System**: Scalable backend with Spring Boot.
-- 🤖 **IEEE Chatbot**: AI-driven chatbot for IEEE Computer Society.
-
 ## 🏆 Achievements
 - 🏅 **Finalist at CodeStorm 2.0** (8th Place, HackHeroes)
 - 🎯 **IEEE Xtreme Programming Contestant**
-- 🔐 **GeSSoMI 2024 Cybersecurity Bootcamp**
+- 🔐 **ACES coders 18th place**
 - ☁️ **Cloud Computing Summer School (IEEE UoJ SB)**
 
 ## 🌍 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamarac99) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamarabandara) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chamarabandara)
+
 
 🚀 Let's build something amazing together!
